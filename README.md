@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in learning all different industry and new technology that is available in the IOT.
 
-- 🌱 I’m currently learning Java development , C# as well as .net technology
+- 🌱 I’m currently working on Javascript, TypeScript, Nest.js , Chart.js and all related to chart.
 
 - 📫 You can reach me via email nicholashowaiken@gmail.com 
      OR 
